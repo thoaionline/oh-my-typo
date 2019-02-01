@@ -1,0 +1,6 @@
+.stack-work/
+oh-my-typo.cabal
+*~
+
+# IDE config
+.idea/
